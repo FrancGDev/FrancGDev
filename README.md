@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FrancGDev
+- 👀 I’m interested in game programing
+- 🌱 I’m currently learning python and C++
